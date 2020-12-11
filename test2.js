@@ -1,5 +1,5 @@
 class A {
   constructot() {
-    this.a = 'Vahram';
+    this.a = 'Vahram-jan';
   }
 }
