@@ -1,5 +1,5 @@
 class A {
   constructot() {
-    this.a = 88;
+    this.a = "VAR";
   }
 }
