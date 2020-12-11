@@ -1,5 +1,5 @@
 class A {
-  constructot()
-  {this.a = 9}}
-
-
+  constructot() {
+    this.a = 88;
+  }
+}
